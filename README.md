@@ -7,5 +7,5 @@ I'm Tim from Germany, and I do some random Stuff, Stuff like building a Website 
 
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SexyJackXy)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SexyJackXy&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SexyJackXy&layout=compact"/>
+
