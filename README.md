@@ -20,7 +20,7 @@ I'm Tim from Germany, and I do some random Stuff, Stuff like building a Website 
 <br>
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SexyJackXy&layout=compact&theme=radical&hide=AIDL" style="width:30%;"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SexyJackXy&layout=compact&theme=radical" style="width:30%;"/> 
 
 ### Art
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿
