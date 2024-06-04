@@ -48,6 +48,3 @@ Of course C# is not the only thing I focus on. In addition to my job as a softwa
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SexyJackXy&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
